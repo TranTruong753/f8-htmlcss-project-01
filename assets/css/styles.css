@@ -16,6 +16,9 @@ body {
     font-family: "Poppins", sans-serif;
 }
 
+html, body {
+    scroll-behavior: smooth;
+}
 /* Common (Phần dùng chung) */
 .line-clamp {
     display: -webkit-box;
